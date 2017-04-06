@@ -9,7 +9,6 @@ html, body, .container {
 }
 
 h1 {
-  color: #fff;
   font-family: 'Bungee Shade', sans-serif;
   font-size: 0.95em;
   text-align: center;
@@ -23,13 +22,13 @@ h1 {
   background-color: #000;
   border-radius: 50%;
   display: flex;
-  font-size: 100px;
   justify-content: center;
   align-content: center;
   flex-direction: column;
+  margin: auto;
+  font-size: 100px;
   height: 550px;
   width: 550px;
-  margin: auto;
 }
 
 .red {color: rgb(255,59,48)}
