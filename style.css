@@ -1,0 +1,29 @@
+* {
+  border: 3px solid blue;
+}
+
+body {
+    background: #fff;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+h1 {
+  border-color: cyan;
+  color: #fff;
+  font-size: 100px;
+  text-align: center;
+}
+
+.container {
+  border-color: red;
+  min-height: 100%;
+}
+
+.circle {
+  background-color: #000;
+  border-radius: 50%;
+  height: 550px;
+  width: 550px;
+  margin: auto;
+}
