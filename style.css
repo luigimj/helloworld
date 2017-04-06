@@ -10,7 +10,8 @@ html, body, .container {
 
 h1 {
   color: #fff;
-  font-size: 100px;
+  font-family: 'Bungee Shade', sans-serif;
+  font-size: 0.95em;
   text-align: center;
 }
 
@@ -22,6 +23,7 @@ h1 {
   background-color: #000;
   border-radius: 50%;
   display: flex;
+  font-size: 100px;
   justify-content: center;
   align-content: center;
   flex-direction: column;
@@ -29,3 +31,12 @@ h1 {
   width: 550px;
   margin: auto;
 }
+
+.red {color: rgb(255,59,48)}
+.orange {color: rgb(255,149,0)}
+.yellow {color: rgb(255,204,0)}
+.green {color: rgb(76,217,100)}
+.tealblue {color: rgb(90,200,250)}
+.blue {color: rgb(0,122,255)}
+.purple {color: rgb(88,86,214)}
+.pink {color: rgb(255,45,85)}
