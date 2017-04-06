@@ -1,4 +1,4 @@
 # helloworld
-A colorful helloworld is the classic first helloworld, but with one little difference, like this is my first repository I decided to make it a little fun. How? with some animated colors 
+The classic first helloworld, with something of colorful
 
 ![helloworld preview](https://github.com/luigimj/helloworld/blob/master/img/helloworld.gif)
